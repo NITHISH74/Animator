@@ -72,4 +72,4 @@ public class idleToCrouch : MonoBehaviour
 ![image](https://user-images.githubusercontent.com/94164665/174709959-e3562451-ec9e-4bb2-b606-bc71ab344283.png)
 
 ## Result:
-Thus, the animator was successfully developed in unity engine with the C#
+Thus, the animator was successfully developed in unity engine with the C#.
